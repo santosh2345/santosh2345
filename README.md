@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Password-Bank**
 
-- 👨‍💻 All of my projects are available at [santoshgiri.me](santoshgiri.me)
+- 👨‍💻 All of my projects are available at [santoshgiri.me](santoshgiri.com.np)
 
 - 📫 How to reach me **contact@santoshgiri.com.np**
 

@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [santoshgiri.me](santoshgiri.com.np)
 
-- 📫 How to reach me **contact@santoshgiri.com.np**
+- 📫 How to reach me **send@santoshgiri.com.np**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
